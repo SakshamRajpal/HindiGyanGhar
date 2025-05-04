@@ -49,7 +49,7 @@
 
 📁 **GitHub:** [https://github.com/SakshamRajpal/HindiGyanGhar](https://github.com/SakshamRajpal/HindiGyanGhar)
 
-🚧 *Deployment in progress. The live version will be shared soon!*
+🚧 **Deployment on netlify:** [https://hindigyanghar.netlify.app/](https://hindigyanghar.netlify.app/)
 
 ---
 
