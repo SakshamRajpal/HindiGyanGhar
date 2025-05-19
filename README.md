@@ -65,8 +65,8 @@ Ensure you have the following installed:
 
 ### 📦 Clone the Repository
 ```bash
-git clone https://github.com/SakshamRajpal/Unichat.git
-cd Unichat
+git clone https://github.com/SakshamRajpal/HindiGyanGhar.git
+cd HindiGyanGhar
 ```
 
 ### 📥 Install Dependencies
