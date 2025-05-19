@@ -1,12 +1,11 @@
-![Screenshot 2025-04-04 170152](https://github.com/user-attachments/assets/8e475562-c542-4d5e-bd80-b927ee609544)
-
 # 📚 HindiGyanGhar – Hindi Language Learning Platform
+![Screenshot 2025-04-04 170152](https://github.com/user-attachments/assets/8e475562-c542-4d5e-bd80-b927ee609544)
 
 **HindiGyanGhar** is a responsive web application designed to help users learn Hindi through interactive lessons, quizzes, and transliteration support. The platform offers vocabulary modules, grammar explanations, audio pronunciations, and tracks user progress to ensure an engaging learning experience.
 
 ---
 
-## ⚙️ Technologies Used
+## ⚙️ Technologies Used:
 
 - **Frontend:** HTML, TailwindCSS, React.js
 - **Backend:** Firebase
@@ -15,7 +14,7 @@
 
 ---
 
-## 📑 Key Features
+## 📑 Key Features:
 
 ### 📝 Interactive Lessons & Grammar Explanations
 - Modules that cover key areas of Hindi, including grammar, vocabulary, and pronunciation.
@@ -36,7 +35,7 @@
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learned:
 
 - Gained hands-on experience with **TailwindCSS** for rapid, responsive UI development.
 - Integrated **React.js** components to manage dynamic content and enhance user interaction.
@@ -45,11 +44,48 @@
 
 ---
 
-## 🔗 Project Repository
+## 🔗 Project Repository:
 
 📁 **GitHub:** [https://github.com/SakshamRajpal/HindiGyanGhar](https://github.com/SakshamRajpal/HindiGyanGhar)
 
 🚧 **Deployment on netlify:** [https://hindigyanghar.netlify.app/](https://hindigyanghar.netlify.app/)
 
 ---
+
+## 🤸 Quick Start:
+
+Follow these steps to get the project running locally.
+
+### 🔧 Prerequisites
+
+Ensure you have the following installed:
+- React
+- Firebase
+- npm (Node Package Manager)
+
+### 📦 Clone the Repository
+```bash
+git clone https://github.com/SakshamRajpal/Unichat.git
+cd Unichat
+```
+
+### 📥 Install Dependencies
+```bash
+npm install
+```
+
+###  ▶️ Run the Development Server
+```bash
+npm run dev
+```
+Visit http://localhost:3000 in your browser.
+
+---
+
+## 🤝 Contributing:
+
+- Found a bug or want to contribute?
+- Feel free to fork the repo, make changes, and open a pull request.
+- ⭐ If you like this project, consider giving it a star!
+
 
